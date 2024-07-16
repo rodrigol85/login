@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+.container{
+    background-color: #524d4d;
+    color: rgb(238, 238, 249);
+    height: 350px;
+    width: 700px;
+    border-style:solid;
+    border-color:#272424;
+    border-width:1px;
+    margin-top: 50px;
+    align-content: center;
+}
+
+.login{
+    display: flex;
+}
+
+.loginIcon{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+}
+.btn {
+    margin-top: 10px;
+}
